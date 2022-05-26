@@ -14,4 +14,4 @@
 - HTML
 
 ---
-![Screenshot](https://github.com/Deren-Web-Developement-Projects/Code-Camp-Product-Page/blob/9cdf27b02343e4aede37ef3559ff20931da733cb/screenshot.png)
+![Screenshot](https://github.com/Deren-Web-Developement-Projects/Odin-Foundation-Javascript/blob/701b1ae6c30367ae0d1b6c0b29fcc8b2e34762e1/Javascript/Screenshot.png)
