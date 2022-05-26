@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #00a7c7;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e76f3d;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#title h1 {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    background-color: #e76f3d;
+}
+
+#title div {
+    background-color: #e76f3d;
+}
+
+#title button {
+    width: 150px;
+    height: 40px;
+    text-transform: uppercase;
+    font-size: 20px;
+    border: 2px solid black;
+    background-color: #9bcfe0;
+}
+
+#title button:hover {
+    background-color: #00a7c7;
+}
+
+#resetButton {
+    margin-left: 20px;
+    
+}
+
+#columnForm {
+    margin-left: 20px;
+}
+
+#title form {
+    padding-top: 20px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #e76f3d;
+}
+
+#title form label {
+    background-color: #e76f3d;
+}
+
+#title form input {
+    height: 30px;
+    width: 70px;
+    font-size: 25px;
+    padding-left: 5px;
+    margin-left: 5px;
+    background-color: #f3e9e7;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    padding-top: 80px;
+    padding-bottom: 180px;
+    border-top: 5px solid #f3e9e7;
+}
+
+.etch-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.etch-item {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    background-color: white;
+} 
+
+@media only screen and (max-width: 700px) {
+    #title form {
+        flex-direction: column;
+    }
+
+    #title form input {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
