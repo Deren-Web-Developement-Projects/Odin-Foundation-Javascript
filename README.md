@@ -9,7 +9,7 @@
 - Includes mobile view support.
 
 ## Technologies & Languages
-- Javascript
+- JavaScript
 - CSS
 - HTML
 
