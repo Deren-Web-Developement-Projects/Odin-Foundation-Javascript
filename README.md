@@ -1,7 +1,7 @@
-# The Odin Project - Foundation Javascript Projects
+# The Odin Project - Foundation JavaScript Projects
 
 ## Description
-- Three simple projects designed to practice Javascript basics.
+- Three simple projects designed to practice JavaScript basics.
 - Project 1 : Rock Paper Scissors
 - Project 2 : Etch-a-Sketch
 - Project 3 : Calculator
